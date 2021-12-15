@@ -10,6 +10,7 @@
 
 #define MAX_COMMAND_LINE_LEN 1024
 #define MAX_COMMAND_LINE_ARGS 128
+//Worked with Bria Fassler and Nia Anderson
 
 char prompt[] = "> ";
 char delimiters[] = " \t\r\n";
